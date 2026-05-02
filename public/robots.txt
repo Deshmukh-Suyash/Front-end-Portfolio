@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://front-end-portfolio-cyan.vercel.app/sitemap.xml
